@@ -1,15 +1,15 @@
 Source: freeplane-flash-browser
-Section: unknown
+Section: graphics
 Priority: optional
 Maintainer: Felix Natter <fnatter@gmx.net>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 8.0.0), mtasc
+Standards-Version: 3.9.5
 Homepage: <insert the upstream URL, if relevant>
 #Vcs-Git: git://git.debian.org/collab-maint/freeplane-flash-browser.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/freeplane-flash-browser.git;a=summary
 
 Package: freeplane-flash-browser
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends} freeplane
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
