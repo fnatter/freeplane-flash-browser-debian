@@ -3,6 +3,7 @@ Section: graphics
 Priority: extra
 Maintainer: Felix Natter <fnatter@gmx.net>
 Build-Depends: debhelper (>= 8.0.0), mtasc
+Homepage: http://www.freeplane.org
 Standards-Version: 3.9.5
 #Vcs-Git: git://git.debian.org/collab-maint/freeplane-flash-browser.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/freeplane-flash-browser.git;a=summary
@@ -12,4 +13,5 @@ Architecture: all
 Depends: ${misc:Depends}, freeplane
 Description: Freeplane flash export files
  This package adds the files necessary for exporting Freeplane maps
- as Flash.
+ as Flash. It is optional, but the Freeplane flash export will fail
+ when this package isn't installed.
