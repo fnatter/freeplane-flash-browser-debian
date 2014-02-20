@@ -2,7 +2,7 @@ Source: freeplane-flash-browser
 Section: graphics
 Priority: extra
 Maintainer: Felix Natter <fnatter@gmx.net>
-Build-Depends: debhelper (>= 8.0.0), mtasc
+Build-Depends: debhelper (>= 9.0.0), mtasc
 Homepage: http://www.freeplane.org
 Standards-Version: 3.9.5
 #Vcs-Git: git://git.debian.org/collab-maint/freeplane-flash-browser.git
