@@ -1,6 +1,6 @@
 freeplane-flash-browser for Debian
 ----------------------------------
 
-<possible notes regarding this package - if none, delete this file>
+This package adds flash export files to the freeplane package.
 
  -- Felix Natter <fnatter@gmx.net>  Wed, 19 Feb 2014 19:44:49 +0100

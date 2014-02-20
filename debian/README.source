@@ -1,10 +1,7 @@
 freeplane-flash-browser for Debian
 ----------------------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
-
-
+The upstream source can be fetched with get-orig-source.sh.
 
  -- Felix Natter <fnatter@gmx.net>  Wed, 19 Feb 2014 19:44:49 +0100
 
