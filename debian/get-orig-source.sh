@@ -4,7 +4,7 @@ TEMPDIR=$(mktemp -d --tmpdir=/tmp)
 
 (
 cd $TEMPDIR
-git clone https://github.com/freeplane/misc.git
+git clone https://github.com/freeplane/misc.git -b flash-browser-1.0
 
 TOPDIR=$TEMPDIR/freeplane-flash-browser-1.0
 mkdir $TOPDIR
